@@ -1,0 +1,4 @@
+C:\Users\Student\Documents\fifi pleincheto\day of weak\obj\Debug\netcoreapp3.1\day of weak.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\fifi pleincheto\day of weak\obj\Debug\netcoreapp3.1\day of weak.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\fifi pleincheto\day of weak\obj\Debug\netcoreapp3.1\day of weak.AssemblyInfo.cs
+C:\Users\Student\Documents\fifi pleincheto\day of weak\obj\Debug\netcoreapp3.1\day of weak.csproj.CoreCompileInputs.cache
